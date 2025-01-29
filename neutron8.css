@@ -24,7 +24,7 @@ body {
     background-color: var(--backgroundColor) !important
 }
 
-.bg_d4b6c5 {
+.bg__960e4 {
     background-color: transparent;
     background-position: var(--backgroundPosition);
     background-repeat: var(--backgroundRepeat);
@@ -3390,5 +3390,5 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
 }
 
 .theme-dark .bannedUser_c90ddb{
-    background-color: var(--backgroundColor)
+    background-color: var(--backgroundColor);
 }
