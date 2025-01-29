@@ -19,7 +19,7 @@
     --backgroundName: rgba(0, 0, 0, .5);
 }
 
-.appMount_ea7e65,
+.appMount_51fd7,
 body {
     background-color: var(--backgroundColor) !important
 }
@@ -46,8 +46,8 @@ body {
 .container_fc4f04.themed_fc4f04,
 .container_ee69e0,
 .container-PNkimc,
-.contentRegion_c25c6d,
-.contentRegionScroller_c25c6d,
+.contentRegion_23e6b,
+.contentRegionScroller_23e6b,
 .header_f1629a,
 .inviteToolbar_c2739c,
 .layer_960e4,
@@ -61,6 +61,7 @@ body {
 .privateChannels_f0963d,
 .scroller_ad8f79,
 .wrapper_ba0ffb,
+.wrapper__452c3,
 .wrapper_b75bb9,
 .scroller_c47fa9,
 .scroller-2TZvBN,
@@ -68,10 +69,12 @@ body {
 .scroller_ff90b2,
 .scroller__244e5,
 .sidebar_a4d4d9,
-.sidebarRegionScroller_c25c6d,
-.standardSidebarView_c25c6d,
+.sidebarRegionScroller_23e6b,
+.standardSidebarView_23e6b,
 .wrapper-1Rf91z,
 .container_bf550a,
+.container_87bf1,
+.slider_87bf1,
 .wrapper_d880dc,
 .wrapper_d880dc.minimum_d880dc,
 .wrapper-KXM2i0 {
@@ -1095,7 +1098,7 @@ body {
     color: var(--backgroundColor) !important
 }
 
-.sidebarRegion_c25c6d {
+.sidebarRegion_23e6b {
     background-color: transparent;
 }
 
@@ -1195,7 +1198,7 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
     padding-top: 19px
 }
 
-.sidebar_c25c6d {
+.sidebar_23e6b {
     padding-top: 41px
 }
 
@@ -2293,7 +2296,7 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
     background-color: var(--backgroundColor)
 }
 
-.contentColumnWide_c25c6d {
+.contentColumnWide_23e6b {
     padding: 60px 138px 80px
 }
 
